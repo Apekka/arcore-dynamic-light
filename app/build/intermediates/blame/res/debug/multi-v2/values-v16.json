@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/aperykasza/Perso/ARProto/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/aperykasza/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/0550c2aecd05ae41a622de13d0cc18fa/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/aperykasza/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/811eebcfca3f5f7fbdd76b533cb52d8f/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

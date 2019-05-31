@@ -1,0 +1,4 @@
+#Thu May 02 13:40:36 CEST 2019
+base.0=/home/aperykasza/Perso/ARProto/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
